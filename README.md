@@ -11,6 +11,7 @@ A simple sliding puzzle game implemented in HTML, CSS, and JavaScript. Rearrange
 ## Files
 - `index.html`: Code for game interface.
 - `images/`: Folder containing tile images.
+- `README.md`: This README file.
 
 ## Customization
 - Add or replace images in the `images/` folder for a new puzzle.
