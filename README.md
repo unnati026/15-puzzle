@@ -1,7 +1,7 @@
 # Sliding Puzzle Game
 
 ## Description
-A simple sliding puzzle game implemented in HTML, CSS, and JavaScript. Rearrange the tiles to form the complete image by clicking on adjacent tiles.
+A [simple sliding puzzle](https://unnati026.github.io/15-puzzle/) game implemented in HTML, CSS, and JavaScript. Rearrange the tiles to form the complete image by clicking on adjacent tiles.
 
 ## Usage
 - Open the HTML file in a web browser.
